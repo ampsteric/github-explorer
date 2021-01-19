@@ -9,3 +9,7 @@ depicting what actually does the code does.
 # Solution :
 
 This Platform saves a lot of time by showing the list of all online hosted work samples (with the description of the project) of a github user in a single page.
+
+![](./src/Assets/mock1.png)
+
+![](./src/Assets/mock2.png)
